@@ -4,6 +4,8 @@
 2. `json_dynamic`  read and write JSON files
 3. `postgres_example` connect and write to postgreSQL 
 4. `file_transfer` transfer files with actix web
+5. `functional_pt1` functional programming with Rust
+    - generics
 
 ## Useful Articles
 
