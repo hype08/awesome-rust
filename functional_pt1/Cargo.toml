@@ -11,3 +11,7 @@ edition = "2018"
 [[bin]]
 name = "intro_generics"
 path = "intro_generics.rs"
+
+[[bin]]
+name = "intro_functions"
+path = "intro_functions.rs"

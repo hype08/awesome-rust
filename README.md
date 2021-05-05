@@ -6,6 +6,7 @@
 4. `file_transfer` transfer files with actix web
 5. `functional_pt1` functional programming with Rust
     - generics
+    - functions
 
 ## Useful Articles
 
