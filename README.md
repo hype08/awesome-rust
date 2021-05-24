@@ -10,4 +10,5 @@
 
 ## Useful Articles
 
-[Unwrap and Expect in Rust](https://jakedawkins.com/2020-04-16-unwrap-expect-rust/)
+[Unwrap and Expect in Rust](https://jakedawkins.com/2020-04-16-unwrap-expect-rust/)  
+[Mutex vs Arc](https://stackoverflow.com/questions/33116317/when-would-you-use-a-mutex-without-an-arc)
