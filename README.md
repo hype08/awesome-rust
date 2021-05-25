@@ -11,5 +11,6 @@
 ## Useful Articles
 
 [Ownership in Rust](https://blog.logrocket.com/understanding-ownership-in-rust/)  
+[Borrow Checker](https://www.youtube.com/watch?v=8M0QfLUDaaA)  
 [Unwrap and Expect in Rust](https://jakedawkins.com/2020-04-16-unwrap-expect-rust/)  
 [Mutex vs Arc](https://stackoverflow.com/questions/33116317/when-would-you-use-a-mutex-without-an-arc)
